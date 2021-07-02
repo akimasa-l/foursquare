@@ -2,7 +2,7 @@ import requests
 import json
 import datetime
 
-longitude_latitude="35.42252723830785,139.64312939950295"
+longitude_latitude="35.42252723830785,139.64312939950295"#Seiko Gakuin
 
 url="https://api.foursquare.com/v2/venues/search"
 
