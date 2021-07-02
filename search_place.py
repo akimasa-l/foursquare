@@ -21,4 +21,7 @@ print(response.url)
 
 a=json.loads(response.text)
 
+with open("./seiko_gakuin.json",mode="w") as f:
+    json.dump(a,f,indent=4)
+
 print(json.dumps(a, indent=4))

@@ -1,0 +1,1253 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "60dec8863088be315f4cdba6"
+    },
+    "notifications": [
+        {
+            "type": "notificationTray",
+            "item": {
+                "unreadCount": 0
+            }
+        }
+    ],
+    "response": {
+        "venues": [
+            {
+                "id": "59b9db6a0d173f3bdf73dbfa",
+                "name": "\u4e2d\u6559\u5ba42",
+                "location": {
+                    "lat": 35.422302,
+                    "lng": 139.642832,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422302,
+                            "lng": 139.642832
+                        }
+                    ],
+                    "distance": 36,
+                    "postalCode": "231-0837",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0837"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d13d941735",
+                        "name": "High School",
+                        "pluralName": "High Schools",
+                        "shortName": "High School",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4b5ab582f964a520a1d128e3",
+                "name": "\u8056\u5149\u5b66\u9662 \u4e2d\u5b66\u6821\u30fb\u9ad8\u7b49\u5b66\u6821",
+                "location": {
+                    "address": "\u4e2d\u533a\u6edd\u4e4b\u4e0a100",
+                    "lat": 35.42266036983957,
+                    "lng": 139.64266526479548,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42266036983957,
+                            "lng": 139.64266526479548
+                        }
+                    ],
+                    "distance": 44,
+                    "postalCode": "231-8681",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6edd\u4e4b\u4e0a100",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-8681"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d13d941735",
+                        "name": "High School",
+                        "pluralName": "High Schools",
+                        "shortName": "High School",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "59b9f13c0f013c7ac214549f",
+                "name": "\u4e2d\u6559\u5ba41",
+                "location": {
+                    "lat": 35.422208,
+                    "lng": 139.642873,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422208,
+                            "lng": 139.642873
+                        }
+                    ],
+                    "distance": 42,
+                    "postalCode": "231-0837",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0837"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d13d941735",
+                        "name": "High School",
+                        "pluralName": "High Schools",
+                        "shortName": "High School",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "50dfcbf1e4b06fa9979875a7",
+                "name": "\u99ac\u5742 (\u6839\u5cb8\u53f0)",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u53f01-3",
+                    "crossStreet": "\u99ac\u306e\u535a\u7269\u9928\uff5e\u30dd\u30cb\u30fc\u30bb\u30f3\u30bf\u30fc",
+                    "lat": 35.422892050707475,
+                    "lng": 139.64022159576416,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422892050707475,
+                            "lng": 139.64022159576416
+                        }
+                    ],
+                    "distance": 266,
+                    "postalCode": "231-0853",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u53f01-3 (\u99ac\u306e\u535a\u7269\u9928\uff5e\u30dd\u30cb\u30fc\u30bb\u30f3\u30bf\u30fc)",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0853"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d159941735",
+                        "name": "Trail",
+                        "pluralName": "Trails",
+                        "shortName": "Trail",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "50fa0ce4e4b03c6cab6a8612",
+                "name": "\u30dd\u30cb\u30fc\u30bb\u30f3\u30bf\u30fc",
+                "location": {
+                    "address": "\u6839\u5cb8\u53f01-3",
+                    "crossStreet": "\u6839\u5cb8\u7af6\u99ac\u8a18\u5ff5\u516c\u82d1",
+                    "lat": 35.42354627492946,
+                    "lng": 139.6402975736109,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42354627492946,
+                            "lng": 139.6402975736109
+                        }
+                    ],
+                    "distance": 280,
+                    "postalCode": "231-0853",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u6839\u5cb8\u53f01-3 (\u6839\u5cb8\u7af6\u99ac\u8a18\u5ff5\u516c\u82d1)",
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0853"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4eb1baf03b7b2c5b1d4306ca",
+                        "name": "Stables",
+                        "pluralName": "Stables",
+                        "shortName": "Stables",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/stable_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4b85a2cff964a520186a31e3",
+                "name": "Negishi Shinrin Park (\u6839\u5cb8\u68ee\u6797\u516c\u5712)",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u53f01-3",
+                    "lat": 35.42307567886536,
+                    "lng": 139.63808346810566,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42307567886536,
+                            "lng": 139.63808346810566
+                        }
+                    ],
+                    "distance": 461,
+                    "postalCode": "231-0853",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u53f01-3",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0853"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d163941735",
+                        "name": "Park",
+                        "pluralName": "Parks",
+                        "shortName": "Park",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4d0b9a15d8d78cfa53fa1dbe",
+                "name": "\u6839\u5cb8\u7af6\u99ac\u8a18\u5ff5\u516c\u82d1 (\u99ac\u306e\u535a\u7269\u9928)",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u53f01-3",
+                    "lat": 35.42258256902362,
+                    "lng": 139.64007091687085,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42258256902362,
+                            "lng": 139.64007091687085
+                        }
+                    ],
+                    "distance": 277,
+                    "postalCode": "231-0853",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u53f01-3",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0853"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d181941735",
+                        "name": "Museum",
+                        "pluralName": "Museums",
+                        "shortName": "Museum",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "58f55f9ba35dce5357ace1f0",
+                "name": "\u4ef2\u5c3e\u53f0\u7b2c\u4e8c\u516c\u5712",
+                "location": {
+                    "address": "\u65e5\u672c",
+                    "lat": 35.422943,
+                    "lng": 139.64192,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422943,
+                            "lng": 139.64192
+                        }
+                    ],
+                    "distance": 119,
+                    "postalCode": "231-0837",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u65e5\u672c",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0837"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e7941735",
+                        "name": "Playground",
+                        "pluralName": "Playgrounds",
+                        "shortName": "Playground",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "59b88b234186867ebebcfc79",
+                "name": "\u8056\u5149\u5b66\u9662\u9ad8\u68212\u5e74B\u7d44",
+                "location": {
+                    "lat": 35.422238,
+                    "lng": 139.642375,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422238,
+                            "lng": 139.642375
+                        }
+                    ],
+                    "distance": 75,
+                    "postalCode": "231-0837",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0837"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d13d941735",
+                        "name": "High School",
+                        "pluralName": "High Schools",
+                        "shortName": "High School",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4d146ad1cc216ea859c05bd3",
+                "name": "\u6a2a\u6d5c\u56fd\u969b\u30d0\u30d6\u30c6\u30b9\u30c8\u6559\u4f1a (YIBC)",
+                "location": {
+                    "address": "\u4ef2\u5c3e\u53f060",
+                    "lat": 35.423246204134735,
+                    "lng": 139.64112216731172,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.423246204134735,
+                            "lng": 139.64112216731172
+                        }
+                    ],
+                    "distance": 198,
+                    "postalCode": "231-0839",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4ef2\u5c3e\u53f060",
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0839"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d132941735",
+                        "name": "Church",
+                        "pluralName": "Churches",
+                        "shortName": "Church",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4fb72614e4b09b4479dc6206",
+                "name": "\u6839\u5cb8\u68ee\u6797\u516c\u5712\u99d0\u8eca\u5834",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u53f0",
+                    "lat": 35.42333759323504,
+                    "lng": 139.640758320761,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42333759323504,
+                            "lng": 139.640758320761
+                        }
+                    ],
+                    "distance": 233,
+                    "postalCode": "231-0853",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u53f0",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0853"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4c38df4de52ce0d596b336e1",
+                        "name": "Parking",
+                        "pluralName": "Parking",
+                        "shortName": "Parking",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/parking_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "55af2c91498eb7ec3a5191e7",
+                "name": "N35.419,E139.645",
+                "location": {
+                    "crossStreet": "\u5de1\u30f6\u4e18\u5b66\u5712\u9ad8\u7b49\u5b66\u6821",
+                    "lat": 35.41713150158951,
+                    "lng": 139.63723172486203,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.41713150158951,
+                            "lng": 139.63723172486203
+                        }
+                    ],
+                    "distance": 804,
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u5de1\u30f6\u4e18\u5b66\u5712\u9ad8\u7b49\u5b66\u6821",
+                        "\u5de1\u30f6\u4e18, \u795e\u5948\u5ddd\u770c"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4deefb944765f83613cdba6e",
+                        "name": "Historic Site",
+                        "pluralName": "Historic Sites",
+                        "shortName": "Historic Site",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "5ed1aad8ff29d30007bd9a06",
+                "name": "\u8c46\u53e3\u53f0\u7b2c\u4e09\u516c\u5712",
+                "location": {
+                    "lat": 35.422848,
+                    "lng": 139.643848,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422848,
+                            "lng": 139.643848
+                        }
+                    ],
+                    "distance": 74,
+                    "postalCode": "231-0838",
+                    "cc": "JP",
+                    "city": "\u4e2d\u533a",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0838"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e7941735",
+                        "name": "Playground",
+                        "pluralName": "Playgrounds",
+                        "shortName": "Playground",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "5ed19e2d507e02000856203f",
+                "name": "\u8c46\u53e3\u53f0\u7b2c\u4e8c\u516c\u5712",
+                "location": {
+                    "lat": 35.422927,
+                    "lng": 139.643619,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422927,
+                            "lng": 139.643619
+                        }
+                    ],
+                    "distance": 62,
+                    "postalCode": "231-0838",
+                    "cc": "JP",
+                    "city": "\u4e2d\u533a",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0838"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e7941735",
+                        "name": "Playground",
+                        "pluralName": "Playgrounds",
+                        "shortName": "Playground",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4fd3f49ce4b0052fbbc92e96",
+                "name": "\u5730\u8535\u738b\u5edf",
+                "location": {
+                    "address": "\u4e2d\u533a\u5927\u829d\u53f07",
+                    "crossStreet": "\u4e2d\u83ef\u7fa9\u8358",
+                    "lat": 35.42820755160665,
+                    "lng": 139.63646113872528,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42820755160665,
+                            "lng": 139.63646113872528
+                        }
+                    ],
+                    "distance": 875,
+                    "postalCode": "231-0858",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u5927\u829d\u53f07 (\u4e2d\u83ef\u7fa9\u8358)",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0858"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d131941735",
+                        "name": "Spiritual Center",
+                        "pluralName": "Spiritual Centers",
+                        "shortName": "Spiritual",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "535b4c53498e635731961ad2",
+                "name": "\u8056\u5149\u5b66\u9662\u30b6\u30d3\u30a8\u30eb\u30bb\u30f3\u30bf\u30fc",
+                "location": {
+                    "address": "\u4e2d\u533a\u6edd\u4e4b\u4e0a1",
+                    "lat": 35.42267784965117,
+                    "lng": 139.64298963546753,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42267784965117,
+                            "lng": 139.64298963546753
+                        }
+                    ],
+                    "distance": 21,
+                    "postalCode": "231-0837",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6edd\u4e4b\u4e0a1",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0837"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d131941735",
+                        "name": "Spiritual Center",
+                        "pluralName": "Spiritual Centers",
+                        "shortName": "Spiritual",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "5996f6bee96d0c172944d9a7",
+                "name": "2\u756a\u7dda\u30db\u30fc\u30e0",
+                "location": {
+                    "address": "\u4e2d\u533a\u5927\u548c\u753a2-52",
+                    "crossStreet": "\u6839\u5cb8\u7dda \u4e0a\u308a",
+                    "lat": 35.427299462609334,
+                    "lng": 139.64622961779898,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.427299462609334,
+                            "lng": 139.64622961779898
+                        }
+                    ],
+                    "distance": 601,
+                    "postalCode": "231-0846",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u5927\u548c\u753a2-52 (\u6839\u5cb8\u7dda \u4e0a\u308a)",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0846"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4f4531504b9074f6e4fb0102",
+                        "name": "Platform",
+                        "pluralName": "Platforms",
+                        "shortName": "Platform",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "573d46bf498eb456147ed301",
+                "name": "\u30e2\u30fc\u30ac\u30f3\u5e83\u5834",
+                "location": {
+                    "address": "\u4e2d\u533a\u7c11\u6ca2",
+                    "lat": 35.42577294342673,
+                    "lng": 139.63941521894253,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42577294342673,
+                            "lng": 139.63941521894253
+                        }
+                    ],
+                    "distance": 494,
+                    "postalCode": "231-0856",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u7c11\u6ca2",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0856"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d164941735",
+                        "name": "Plaza",
+                        "pluralName": "Plazas",
+                        "shortName": "Plaza",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4f547340e4b07c31b593f73d",
+                "name": "\u6edd\u306e\u4e0a (\u5e02\u30d0\u30b9)",
+                "location": {
+                    "address": "\u4e2d\u533a\u5c71\u5143\u753a5",
+                    "lat": 35.42213699346199,
+                    "lng": 139.64031997532535,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.42213699346199,
+                            "lng": 139.64031997532535
+                        }
+                    ],
+                    "distance": 258,
+                    "postalCode": "231-0851",
+                    "cc": "JP",
+                    "neighborhood": "\u4e2d\u533a",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u5c71\u5143\u753a5",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0851"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52f2ab2ebcbc57f1066b8b4f",
+                        "name": "Bus Stop",
+                        "pluralName": "Bus Stops",
+                        "shortName": "Bus Stop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "5dfaf2cd2eea21000876eacb",
+                "name": "\u6839\u5cb8\u7dda \u77e2\u53e3\u53f0\u30c8\u30f3\u30cd\u30eb",
+                "location": {
+                    "crossStreet": "\u6839\u5cb8\u7dda",
+                    "lat": 35.422381,
+                    "lng": 139.647766,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.422381,
+                            "lng": 139.647766
+                        }
+                    ],
+                    "distance": 420,
+                    "postalCode": "231-0831",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u6839\u5cb8\u7dda",
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0831"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52f2ab2ebcbc57f1066b8b4a",
+                        "name": "Tunnel",
+                        "pluralName": "Tunnels",
+                        "shortName": "Tunnel",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "50a0e4bfe4b0eaa9173a9207",
+                "name": "\u30c1\u30c3\u30d7\u30b9",
+                "location": {
+                    "address": "\u6839\u5cb8\u753a3-176-26",
+                    "crossStreet": "\u6839\u5cb8\u4e0d\u52d5\u4e0b\u30d3\u30eb",
+                    "lat": 35.417991,
+                    "lng": 139.640352,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.417991,
+                            "lng": 139.640352
+                        }
+                    ],
+                    "distance": 564,
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u6839\u5cb8\u753a3-176-26 (\u6839\u5cb8\u4e0d\u52d5\u4e0b\u30d3\u30eb)",
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d14e941735",
+                        "name": "American Restaurant",
+                        "pluralName": "American Restaurants",
+                        "shortName": "American",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "552c789a498eaf68009a4f51",
+                "name": "\u6839\u5cb8\u99c5\u524d\u90f5\u4fbf\u5c40",
+                "location": {
+                    "address": "\u78ef\u5b50\u533a\u6771\u753a13-21",
+                    "lat": 35.41720499295949,
+                    "lng": 139.63864134169606,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.41720499295949,
+                            "lng": 139.63864134169606
+                        }
+                    ],
+                    "distance": 718,
+                    "postalCode": "235-0005",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u78ef\u5b50\u533a\u6771\u753a13-21",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "235-0005"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d172941735",
+                        "name": "Post Office",
+                        "pluralName": "Post Offices",
+                        "shortName": "Post Office",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/postoffice_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "5ed0506d512540000746f28d",
+                "name": "\u6edd\u30ce\u4e0a\u516c\u5712",
+                "location": {
+                    "lat": 35.421122,
+                    "lng": 139.64141,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.421122,
+                            "lng": 139.64141
+                        }
+                    ],
+                    "distance": 220,
+                    "postalCode": "231-0837",
+                    "cc": "JP",
+                    "city": "\u4e2d\u533a",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0837"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e7941735",
+                        "name": "Playground",
+                        "pluralName": "Playgrounds",
+                        "shortName": "Playground",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4d3d26648edf37048128b7a5",
+                "name": "\u52a0\u66fd\u53f0\u516c\u5712",
+                "location": {
+                    "address": "\u6839\u5cb8\u52a0\u66fd\u53f024-8",
+                    "lat": 35.420243,
+                    "lng": 139.643025,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.420243,
+                            "lng": 139.643025
+                        }
+                    ],
+                    "distance": 254,
+                    "postalCode": "231-0835",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u6839\u5cb8\u52a0\u66fd\u53f024-8",
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0835"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d163941735",
+                        "name": "Park",
+                        "pluralName": "Parks",
+                        "shortName": "Park",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/park_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4d1f95b68629224b27370c87",
+                "name": "\u8c46\u53e3\u53f0\u516c\u5712",
+                "location": {
+                    "address": "\u8c46\u53e3\u53f0118-36",
+                    "lat": 35.4225,
+                    "lng": 139.645175,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.4225,
+                            "lng": 139.645175
+                        }
+                    ],
+                    "distance": 185,
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u8c46\u53e3\u53f0118-36",
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e7941735",
+                        "name": "Playground",
+                        "pluralName": "Playgrounds",
+                        "shortName": "Playground",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "5179bc58498e7ee28efea1f7",
+                "name": "\u5fa1\u5dbd\u795e\u793e",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u753a2-112",
+                    "lat": 35.419628,
+                    "lng": 139.64270999999997,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.419628,
+                            "lng": 139.64270999999997
+                        }
+                    ],
+                    "distance": 324,
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u753a2-112",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4eb1d80a4b900d56c88a45ff",
+                        "name": "Shrine",
+                        "pluralName": "Shrines",
+                        "shortName": "Shrine",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_shrine_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4c94605c533aa093d11dbf45",
+                "name": "\u30b9\u30c6\u30fc\u30ad\u30cf\u30a6\u30b9\u6839\u5cb8",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u753a3-176",
+                    "lat": 35.417868496947676,
+                    "lng": 139.6389601289754,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.417868496947676,
+                            "lng": 139.6389601289754
+                        }
+                    ],
+                    "distance": 641,
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u753a3-176",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1df931735",
+                        "name": "BBQ Joint",
+                        "pluralName": "BBQ Joints",
+                        "shortName": "BBQ",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "52107c6711d28edd31d60249",
+                "name": "\u6e05\u6c34\u5bfa",
+                "location": {
+                    "address": "\u8c46\u53e3\u53f0111",
+                    "lat": 35.423848,
+                    "lng": 139.64541,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.423848,
+                            "lng": 139.64541
+                        }
+                    ],
+                    "distance": 253,
+                    "postalCode": "231-0838",
+                    "cc": "JP",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u8c46\u53e3\u53f0111",
+                        "\u6a2a\u6d5c\u5e02\u4e2d\u533a, \u795e\u5948\u5ddd\u770c",
+                        "231-0838"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "52e81612bcbc57f1066b7a3e",
+                        "name": "Buddhist Temple",
+                        "pluralName": "Buddhist Temples",
+                        "shortName": "Buddhist Temple",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "4bdfa651e75c0f47b702cc03",
+                "name": "CAFE HANZ",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u753a3-143",
+                    "lat": 35.418264744005214,
+                    "lng": 139.6410021185875,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.418264744005214,
+                            "lng": 139.6410021185875
+                        }
+                    ],
+                    "distance": 512,
+                    "postalCode": "231-0836",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u753a3-143",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0836"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "4bf58dd8d48988d1e0931735",
+                        "name": "Coffee Shop",
+                        "pluralName": "Coffee Shops",
+                        "shortName": "Coffee Shop",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            },
+            {
+                "id": "5710b59e498ec10105626e70",
+                "name": "KAMUI (\u3068\u3093\u3053\u3064\u91a4\u6cb9 \u795e\u5a01)",
+                "location": {
+                    "address": "\u4e2d\u533a\u6839\u5cb8\u753a3-174",
+                    "crossStreet": "\u30d9\u30a4\u30b5\u30a4\u30c9\u30a6\u30a4\u30f3\u30b0\u5ca9\u5d0e 1F",
+                    "lat": 35.41804344131607,
+                    "lng": 139.63975440096908,
+                    "labeledLatLngs": [
+                        {
+                            "label": "display",
+                            "lat": 35.41804344131607,
+                            "lng": 139.63975440096908
+                        }
+                    ],
+                    "distance": 585,
+                    "postalCode": "231-0836",
+                    "cc": "JP",
+                    "city": "\u6a2a\u6d5c\u5e02",
+                    "state": "\u795e\u5948\u5ddd\u770c",
+                    "country": "\u65e5\u672c",
+                    "formattedAddress": [
+                        "\u4e2d\u533a\u6839\u5cb8\u753a3-174 (\u30d9\u30a4\u30b5\u30a4\u30c9\u30a6\u30a4\u30f3\u30b0\u5ca9\u5d0e 1F)",
+                        "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c",
+                        "231-0836"
+                    ]
+                },
+                "categories": [
+                    {
+                        "id": "55a59bace4b013909087cb24",
+                        "name": "Ramen Restaurant",
+                        "pluralName": "Ramen Restaurants",
+                        "shortName": "Ramen",
+                        "icon": {
+                            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+                            "suffix": ".png"
+                        },
+                        "primary": true
+                    }
+                ],
+                "referralId": "v-1625213062",
+                "hasPerk": false
+            }
+        ],
+        "confident": false
+    }
+}
